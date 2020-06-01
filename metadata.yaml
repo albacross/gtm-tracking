@@ -1,0 +1,5 @@
+homepage: "https://albacross.com"
+documentation: "https://help.albacross.com"
+versions:
+  - sha: cee2a76705cc0afb95c47825e4e802614dd8dd3f
+    changeNotes: Initial release
